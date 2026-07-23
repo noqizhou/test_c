@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\test_c\\test_c_1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{95FF811F-2016-47A9-9DE2-605379D8D100}|test_c_1\\test_c_1.vcxproj|D:\\test_c\\test_c_1\\test_c_1\\\u6E90.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{95FF811F-2016-47A9-9DE2-605379D8D100}|test_c_1\\test_c_1.vcxproj|solutionrelative:test_c_1\\\u6E90.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{CBCDEBF6-2D8C-4604-928C-C61B31C32AED}|test_c_1\\test_c_1.vcxproj|D:\\test_c\\test_c_1\\test_c_1\\\u6E90.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CBCDEBF6-2D8C-4604-928C-C61B31C32AED}|test_c_1\\test_c_1.vcxproj|solutionrelative:test_c_1\\\u6E90.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +26,7 @@
               "RelativeToolTip": "test_c_1\\\u6E90.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-07-23T23:10:00.121Z",
+              "WhenOpened": "2026-07-23T23:52:24.193Z",
               "EditorCaption": ""
             }
           ]
