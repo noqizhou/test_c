@@ -1,13 +1,13 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
-//ȫ�ֱ����;ֲ�����������ͬ���ֲ���������ʹ��
+//全局变量和局部变量名称相同，局部变量优先使用
 
 
 //int main()
 //{
 //	int a, b;
 //	while (scanf("%d %d", &a, &b) != EOF) {
-//		//scanf������EOF��˵��ѭ������
+//		//scanf如果输出EOF，说明循环结束
 //		printf("%d %d", a / b , a % b);
 //	}
 //	return 0;
@@ -71,8 +71,8 @@ int main()
 		int i = 0;
 		while (i < a)
 		{
+			printf("*");//二者顺序不可调换
 			i++;
-			printf("*");
 
 		}
 		printf("\n");
