@@ -1,0 +1,7 @@
+﻿  源.cpp
+D:\test_c\test_c_8_8\test_c_8_8\源.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 7 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  test_c_8_8.vcxproj -> D:\test_c\test_c_8_8\x64\Release\test_c_8_8.exe
