@@ -71,8 +71,8 @@ int main()
 		int i = 0;
 		while (i < a)
 		{
-			i++;
 			printf("*");
+			i++;
 
 		}
 		printf("\n");
